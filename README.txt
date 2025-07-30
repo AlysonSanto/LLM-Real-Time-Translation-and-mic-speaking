@@ -13,18 +13,9 @@ The system captures your voice through the microphone in your native language an
 
 💬 Speaks back the translated text using TTS (Text-to-Speech)
 
-📁 Project Structure
-graphql
-Copiar
-Editar
-LLM-Real-Time-Translation-and-mic-speaking/
-├── nllb-200-distilled-600M/    # Fine-tuned NLLB model files
-├── python-env/                 # Python virtual environment with all dependencies
-└── AI_voice.py                 # Main script that runs the microphone capture and translation
-
 🚀 How to Run
-Activate the Python environment:
-./python-env/Scripts/activate
+Python environment:
+
 Run the program:
 python AI_voice.py
 
