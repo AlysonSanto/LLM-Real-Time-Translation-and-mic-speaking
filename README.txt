@@ -14,9 +14,11 @@ The system captures your voice through the microphone in your native language an
 💬 Speaks back the translated text using TTS (Text-to-Speech)
 
 🚀 How to Run
-Python environment:
+Clone this Repository:
+git clone https://github.com/AlysonSanto/LLM-Real-Time-Translation-and-mic-speaking.git
+
 Run: 
-```bash
+
 pip install -r requirements.txt
 python Download.py (to take the model from Google Drive)
 
