@@ -15,6 +15,7 @@ The system captures your voice through the microphone in your native language an
 
 🚀 How to Run
 Python environment:
+Run: pip install -r requirements.txt
 
 Run the program:
 python AI_voice.py
